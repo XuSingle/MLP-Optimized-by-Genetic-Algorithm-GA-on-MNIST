@@ -2,7 +2,7 @@
 Here is a record about Project 2 in COMP 5511 in H.K. PolyU. </br >
 Build MLP and use GA as optimizer to recognize picture from MNIST </br >
 
-We use Geatpy library to call a GA. </br >
+We use Geatpy library to call a GA and construct a MLP with only one hidden layer with 100 hidden nodes. </br >
 </br>
 We split the train set into 6 subsets, this means we will train 6 models to recognize digits.
 </br >
